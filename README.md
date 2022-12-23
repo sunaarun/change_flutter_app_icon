@@ -1,6 +1,10 @@
 # icon_app
 
-A new Flutter project.
+A new Flutter project to change **Flutter App Icon** using **flutter_launcher_icons** package.
+You can watch the episode on **YouTube**, link :https://youtu.be/Ebq4Bgwm7CQ
+![t2](https://user-images.githubusercontent.com/36349126/209307004-7f8930d3-0e10-429e-bfb7-5ed8961b3dc5.png)
+
+
 
 ## Getting Started
 
